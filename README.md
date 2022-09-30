@@ -9,8 +9,6 @@ Experiência na área acadêmica como docente em Disciplinas de Programação, b
 
 Principais Tecnologias: Back-End Developer | Java | Spring.
 
-🤝 Contatos
-
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/rodrigovalencafrade)
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>](http://wa.me/5584999900123)
 <hr>
