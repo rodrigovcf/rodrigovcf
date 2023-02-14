@@ -1,6 +1,8 @@
 
 <h1 align="center">Rodrigo Valença</h1>
 
+🎓 M.Sc. in Computer Science
+
 Fascinado por Tecnologia, Desenvolvimento de Softwares e Educação. Focado na busca de soluções inovadores, que proporcionem uma melhoria em processos das vidas das pessoas. 
 
 Proativo no aprendizado de novas ferramentas, que possam auxiliar na produtividade de projetos desafiadores. 
