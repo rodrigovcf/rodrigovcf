@@ -3,13 +3,13 @@
 
 🎓 M.Sc. in Computer Science
 
-Fascinado por Tecnologia, Desenvolvimento de Softwares e Educação. Focado na busca de soluções inovadores, que proporcionem uma melhoria em processos das vidas das pessoas. 
+Fascinated by Technology, Software Development and Education. Focused on finding innovative solutions that improve processes in people's lives.
 
-Proativo no aprendizado de novas ferramentas, que possam auxiliar na produtividade de projetos desafiadores. 
+Proactive in learning new tools that can help in the productivity of challenging projects.
 
-Experiência na área acadêmica como docente em Disciplinas de Desenvolvimento de Software com ênfase nos Paradigmas de Orientação a Objetos e Funcional.
+Experience in the academic area as a teacher in Software Development Disciplines with emphasis on Object Oriented Programming and Functional Programming.
 
-Principais Tecnologias: Back-End Developer | Java | Spring | MySQL.
+Main Stacks: Java | Spring | MySQL | Angular | React
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/rodrigovalencafrade)
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>](http://wa.me/5584999900123)
