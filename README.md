@@ -18,6 +18,13 @@ Experience in the academic area as a teacher in Software Development Disciplines
 
 
 ### ⚙️ &nbsp; Git Analytics
-
-<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rodrigovcf&theme=dark&show_icons=true" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rodrigovcf&theme=dark&layout=compact" width="410" /></p>
+<div align="center">
+  
+ <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rodrigovcf&theme=dark&show_icons=true" />
+  
+  
+  
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rodrigovcf&theme=dark&layout=compact" />
+  
+  
+</div>
