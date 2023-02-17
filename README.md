@@ -9,7 +9,7 @@ Proactive in learning new tools that can help in the productivity of challenging
 
 Experience in the academic area as a teacher in Software Development Disciplines with emphasis on Object Oriented Programming and Functional Programming.
 
-<img src="https://cdn-icons-png.flaticon.com/512/5047/5047053.png" height="42" width="42" />  Java | Spring | MySQL | Angular | React | Git
+<img src="https://cdn-icons-png.flaticon.com/512/5047/5047053.png" height="42" width="42" />  Java | Spring | MySQL | Angular | React
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/rodrigovalencafrade)
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>](http://wa.me/5584999900123)
