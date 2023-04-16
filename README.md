@@ -9,6 +9,8 @@ Proactive in learning new tools that can help in the productivity of challenging
 
 Experience in the academic area as a teacher in Software Development Disciplines with emphasis on Object Oriented Programming and Functional Programming.
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a71cc23d-b3f6-43c1-a73c-1fd97443290d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <img src="https://cdn-icons-png.flaticon.com/512/3271/3271001.png" height="42" width="42" />  Java | Spring | MySQL | PostgreSQL | Angular | React | Git
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/rodrigovalencafrade)
