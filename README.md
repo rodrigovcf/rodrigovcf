@@ -17,15 +17,15 @@ Java | Spring | MySQL | PostgreSQL | Angular | React | Git
 
 <h2>☁️ Cloud Certifications</h2>
 
-<a target="_blank" rel="noopener noreferrer" href="https://www.credly.com/earner/earned/badge/a71cc23d-b3f6-43c1-a73c-1fd97443290d"><img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/></a>
-<a target="_blank" rel="noopener noreferrer" href="https://www.credly.com/earner/earned/badge/580befd7-4313-45bc-a67c-edec933a7cce"><img src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/></a>
+<a target="_blank" href="https://www.credly.com/earner/earned/badge/a71cc23d-b3f6-43c1-a73c-1fd97443290d"><img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/></a>
+<a target="_blank" href="https://www.credly.com/earner/earned/badge/580befd7-4313-45bc-a67c-edec933a7cce"><img src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/></a>
 
 <hr>
 
 <h2>Contact me</h2>
 
-<a target="_blank" rel="noopener noreferrer" href="https://linkedin.com/in/rodrigovalencafrade"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a target="_blank" rel="noopener noreferrer" href="http://wa.me/5584999900123"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a target="_blank" href="https://linkedin.com/in/rodrigovalencafrade"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a target="_blank" href="http://wa.me/5584999900123"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href = "mailto:rodrigo.rvcf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <hr>
 
