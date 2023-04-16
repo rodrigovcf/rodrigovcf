@@ -11,7 +11,7 @@ Experience in the academic area as a teacher in Software Development Disciplines
 
 <h2>👨🏻‍💻 Skills</h2>
 
-Java | Spring | MySQL | PostgreSQL | Angular | React | Git
+Java | Spring | MySQL | PostgreSQL | Angular | ReactJS | Git
 
 <hr>
 
