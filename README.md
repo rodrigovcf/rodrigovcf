@@ -15,10 +15,11 @@ Java | Spring | MySQL | PostgreSQL | Angular | ReactJS | Git
 
 <hr>
 
-<h2>☁️ Cloud Certifications</h2>
+<h2>☁️ My Cloud Badges</h2>
 
-<a target="_blank" href="https://www.credly.com/earner/earned/badge/a71cc23d-b3f6-43c1-a73c-1fd97443290d"><img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/></a>
-<a target="_blank" href="https://www.credly.com/earner/earned/badge/580befd7-4313-45bc-a67c-edec933a7cce"><img src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/></a>
+<a target="_blank" href="https://www.credly.com/badges/a71cc23d-b3f6-43c1-a73c-1fd97443290d/linked_in_profile"><img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/></a>
+<a target="_blank" href="https://www.credly.com/badges/580befd7-4313-45bc-a67c-edec933a7cce/linked_in_profile"><img src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/></a>
+<a target="_blank" href="https://www.credly.com/badges/20383a00-a7ec-4e91-a097-fad28dbfc647/linked_in_profile"><img src="https://images.credly.com/size/110x110/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"/></a>
 
 <hr>
 
