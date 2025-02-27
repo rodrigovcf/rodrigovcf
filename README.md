@@ -3,12 +3,11 @@
 
 <h2>🎓 M.Sc. in Computer Science</h2>
 
-Fascinated by Technology, Software Development and Education. Focused on finding innovative solutions that improve processes in people's lives.
+Professional with solid experience in software development, with strong experience in Java and its ecosystem, including Spring Boot, JPA/Hibernate, REST APIs and microservices. Experience with CI/CD using Git and Azure DevOps, ensuring quality and automation in delivery processes.
 
-Proactive in learning new tools that can help in the productivity of challenging projects.
+Practical experience in data engineering with Azure Data Factory and Databricks, enabling a strategic vision of integration between development and data infrastructure. Familiarity with relational and NoSQL databases, as well as good practices in software architecture and design patterns.
 
-Experience in the academic area as a teacher in Software Development Disciplines with emphasis on Object Oriented Programming and Functional Programming.
-
+Master in Computer Science, with academic and professional experience in building scalable, secure and efficient solutions.
 <h2>👨🏻‍💻 Skills</h2>
 
 Java | Spring | MySQL | PostgreSQL | Angular | ReactJS | Git
