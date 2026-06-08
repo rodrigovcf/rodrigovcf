@@ -3,14 +3,18 @@
 
 <h2>🎓 M.Sc. in Computer Science</h2>
 
-Professional with solid experience in software development, with strong experience in Java and its ecosystem, including Spring Boot, JPA/Hibernate, REST APIs and microservices. Experience with CI/CD using Git and Azure DevOps, ensuring quality and automation in delivery processes.
+Full-Stack Developer with extensive experience in enterprise applications using Java, Spring Boot, React, and RESTful APIs, focused on the financial and governmental sectors. 
 
-Practical experience in data engineering with Azure Data Factory and Databricks, enabling a strategic vision of integration between development and data infrastructure. Familiarity with relational and NoSQL databases, as well as good practices in software architecture and design patterns.
+Proven track record in backend and frontend development, system integration, microservices, evolutionary maintenance, and enterprise application support. 
 
-Master in Computer Science, with academic and professional experience in building scalable, secure and efficient solutions.
+Experienced in developing Generative AI solutions integrated with Jira tasks using GPT/Lab45, as well as cloud environments (Azure), data pipelines, and DevOps practices. 
+
+Proficient in Agile methodologies (Scrum), Git version control, and software quality assurance. 
+
+Holds a Master’s degree in Computer Science from UFERSA, with academic experience as a university professor teaching Object-Oriented Programming, Web Development, and Databases.
 <h2>👨🏻‍💻 Skills</h2>
 
-Java | Spring | MySQL | PostgreSQL | Angular | ReactJS | Git
+Java | Spring | MySQL | ReactJS | Git
 
 <hr>
 
